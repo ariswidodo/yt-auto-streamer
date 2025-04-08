@@ -5,7 +5,7 @@ video_path = "video/video_mu.mp4"
 
 # RTMP endpoint YouTube
 rtmp_url = "rtmp://a.rtmp.youtube.com/live2"
-stream_key = "GANTI_DENGAN_STREAM_KEY_KAMU"
+stream_key = "mquc-7tyd-d97a-gwz7-9vvw"
 
 def start_stream():
     command = [
